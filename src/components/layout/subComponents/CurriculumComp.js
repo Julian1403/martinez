@@ -14,7 +14,7 @@ export const Experiencia = (props) => {
                 <div className='experiencia__contenedor__info'>
                     <h2 className='experiencia__titulo'>{props.titulo}</h2>
                     <Logos size='90px' colorLogo="#F5F5F5" logo={props.nombreLogo} />
-                    <p className='experiencia__info'>{props.fecha}</p>
+                    <p className='experiencia__info'>2022</p>
                 </div>
             </div>
             <div className='espacio'></div>
